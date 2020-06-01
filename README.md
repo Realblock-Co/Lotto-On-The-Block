@@ -1,4 +1,4 @@
-# Cryptolotto - Ethereum powered blockchain lottery
+# Lotto On The Block - Ethereum powered blockchain lottery
 
 [![N|Solid](https://github.com/cryptolotto/Cryptolotto/blob/master/images/Powered%20by%20ETH.png?raw=true)](https://www.ethereum.org) [![N|Solid](https://github.com/cryptolotto/Cryptolotto/blob/master/images/Play%20Cryptolotto.png?raw=true)](https://cryptolotto.cc)
 

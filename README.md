@@ -2,7 +2,7 @@
 
 [![N|Solid](https://github.com/cryptolotto/Cryptolotto/blob/master/images/Powered%20by%20ETH.png?raw=true)](https://www.ethereum.org) [![N|Solid](https://github.com/cryptolotto/Cryptolotto/blob/master/images/Play%20Cryptolotto.png?raw=true)](https://cryptolotto.cc)
 
-Cryptolotto is a blockchain-based, Ethereum powered lottery, which gives to users the most transparent and honest chances of winning.
+Lotto On The Block is a blockchain-based, Ethereum powered lottery, which gives to users the most transparent and honest chances of winning.
 
 ![Cryptolotto_banner](https://github.com/Cryptolotto/Cryptolotto/blob/master/images/Bitcointalk%20banner.png?raw=true)
 # Table of Contents
@@ -16,9 +16,9 @@ Cryptolotto is a blockchain-based, Ethereum powered lottery, which gives to user
 8. [Contact Support](#contact-support)
 
 # Overview
-Cryptolotto is a powered by Ethereum DApp (decentralized application). The backend code is running on a decentralized peer-to-peer network and is presented by 14 smart contracts and a front-end. Cryptolotto works autonomously and with no entity controlling the key functions. The Cryptolotto's data and records of operation are cryptographically stored in a public, decentralized Ethereum blockchain network.
+Lotto On The Block (LOTB) is a powered by Ethereum DApp (decentralized application). The backend code is running on a decentralized peer-to-peer network and is presented by 14 smart contracts and a front-end. Lotto On The Block (LOTB) works autonomously and with no entity controlling the key functions. The LOTB's data and records of operation are cryptographically stored in a public, decentralized Ethereum blockchain network.
 
-The main idea of Cryptolotto is straightforward: people from all over the world contribute equal amounts of ETH to one wallet during the set period of time. When a timer ends, this smart-contract powered wallet automatically sends all received ETH to one randomly chosen wallet-participant.
+The main idea of LOTB is straightforward: people from all over the world contribute equal amounts of ETH to one wallet during the set period of time. When a timer ends, this smart-contract powered wallet automatically sends all received ETH to one randomly chosen wallet-participant.
 
 ![Cryptolotto_demo](https://github.com/Cryptolotto/Cryptolotto/blob/master/images/Github%20demo.gif?raw=true)
 
@@ -47,8 +47,8 @@ Please watch a tutorial video on [YouTube](https://www.youtube.com/watch?v=PyrtC
 
 # Features
   - **Play safely**. You can join the game safely, even if there are no other players at the time. If by the end of the game no one joins besides you, you will automatically receive your ETH back to your wallet immediately.
-  - **Get results**. Recieve instant notifications on your phone by joining our [Telegram](https://www.t.me/cryptolottoresults). Get useful information about a name of a game, jackpot amount in ETH and USD, timestamp, winner's wallet address and TX hash.
-  - **Works worldwide**. Everyone it the world can play the Cryptolotto. There are no borders, limitations or special terms. To start playing, it’s enough to have an Internet access, an Ethereum wallet and ethers. Cryptolotto is not limited to only one country, doesn’t require a special citizenship and is free of any bureaucracy.
+  - **Get results**. Recieve instant notifications on your phone by joining our [Telegram](https://www.t.me/lotb). Get useful information about a name of a game, jackpot amount in ETH and USD, timestamp, winner's wallet address and TX hash.
+  - **Works worldwide**. Everyone it the world can play the LOTB. There are no borders, limitations or special terms. To start playing, it’s enough to have an Internet access, an Ethereum wallet and ethers. LOTB is not limited to only one country, doesn’t require a special citizenship and is free of any bureaucracy.
   - **Play all games**. In Cryptolotto you can participate in one game unlimited amount of times. Also, you can play in all games simultaneously. It increases chances to win, but remember this not guarantees a win because a winner is always picked randomly. 
   - **MetaMask supported**. Play the game in one click by using [MetaMask](https://metamask.io) wallet. Having Chrome or Firefox browser and MetaMask makes the process of playing in Cryptolotto even more simple and user friendly. No need to copy&paste addresses and ticket prices, just click one button and you will join the game right away!   
 
@@ -109,8 +109,8 @@ Please watch a tutorial video on [YouTube](https://www.youtube.com/watch?v=PyrtC
 > Each wallet-participant gets `${uint _number}` when he joins the game. Random number determination depends on current block timestamp, block difficulty, block number and previous block hash. We set determination between min and max values. Additional conditions, in case something goes wrong, are set to prevent contract from sending Jackpot to invalid address.  
 
 # Frequently Asked Questions
-Please follow [this link](cryptolotto.cc/en/faq) to find Cryptolotto FAQs
+Please follow [this link](lotb.xyz/en/faq) to find LOTB FAQs
 
 # Contact Support
-If you have any questions about this game please contact us at support@cryptolotto.cc
+If you have any questions about this game please contact us at support@geopay.me
 
